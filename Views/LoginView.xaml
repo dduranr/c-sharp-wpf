@@ -217,7 +217,8 @@
                              Height="28"
                              VerticalContentAlignment="Center"
                              Margin="0,5,0,0"
-                             Padding="20,0,0,0">
+                             Padding="20,0,0,0"
+                             KeyDown="TxtUser_KeyDown">
                         <!-- No existe opción para poner un ícono al lado izquierdo. Como alternativa se pone como background (recordar que para que esto funcione es necesario eliminar la propiedad background de TextBox). Dimensiones ícono 150 x 150 pixeles -->
                         <TextBox.Background>
                             <ImageBrush ImageSource="/Images/user-icon.png"

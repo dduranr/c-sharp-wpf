@@ -10,6 +10,7 @@
         Title="MainWindowView" Height="700" Width="1300"
         WindowStartupLocation="CenterScreen"
         WindowStyle="None"
+        ResizeMode="CanResizeWithGrip"
         Background="Transparent"
         AllowsTransparency="True">
 
