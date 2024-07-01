@@ -1,4 +1,8 @@
 ﻿
+RJCodeAdvance
+RJCodeAdvance
+RJCodeAdvance
+
 Este proyecto es justo el que se muestra en este par de tutoriales, el primero sólo levanta la vista de inicio de sesión, y el segundo trabaja la lógica con patrón MVVM:
 	1. https://www.youtube.com/watch?v=ebRTeKld4Nc&list=PLqjdFmR_HdQSeW4wHVVkDwZQ5ysnNFaoz&pp=iAQB
 	2. https://www.youtube.com/watch?v=Z-_yGz08yTU&list=PLqjdFmR_HdQRcbcMjqb3PqFWGgSsvwDum&pp=iAQB
@@ -6,6 +10,6 @@ Este proyecto es justo el que se muestra en este par de tutoriales, el primero s
 Código
 	Este contiene el login y toda la lógica de inicio de sesión
 		Github: https://github.com/RJCodeAdvance/Login-In-WPF-MVVM-C-Sharp-and-SQL-Server
-	Este contiene la vista del dashboard
+	Este contiene la vista del dashboard (parcial)
 		https://rjcodeadvance.com/wpf-mvvm-diseno-de-iu-principal-moderno-parte-1/
 

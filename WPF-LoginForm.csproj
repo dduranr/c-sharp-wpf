@@ -166,5 +166,8 @@
   <ItemGroup>
     <Resource Include="Images\key-icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="base-de-datos.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
